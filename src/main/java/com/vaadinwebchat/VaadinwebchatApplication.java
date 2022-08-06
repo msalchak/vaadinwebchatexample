@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class VaadinwebchatApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(VaadinwebchatApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(VaadinwebchatApplication.class, args);
+    }
 
 }
